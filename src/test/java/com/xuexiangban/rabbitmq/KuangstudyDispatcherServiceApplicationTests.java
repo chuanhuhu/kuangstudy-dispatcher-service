@@ -8,7 +8,8 @@ class KuangstudyDispatcherServiceApplicationTests {
 
     @Test
     void contextLoads() {
-        System.out.println("pull text");
+        System.out.println("PUSH text");
+        System.out.println("PULL text");
     }
 
 }
